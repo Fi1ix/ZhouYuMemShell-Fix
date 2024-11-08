@@ -1,0 +1,3 @@
+dependencies {
+    implementation files("${System.getenv('JAVA_HOME')}/lib/tools.jar")
+}
