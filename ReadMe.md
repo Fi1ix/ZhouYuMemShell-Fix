@@ -6,6 +6,10 @@ JDK为`1.8`，IDEA版本为 `2024.2.3` ，gradle版本就用的IDEA的
 
 ![](./images/1.png)
 
+代码在Release那里
+
+构建好的JAR包有三个，参考原本项目的ReadMe，ZhouYu内存马为 `agent-1.0-SNAPSHOT-all.jar`
+
 
 
 # 原本项目地址
